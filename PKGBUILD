@@ -16,7 +16,7 @@ sha256sums=('SKIP')
 
 prepare() {
     cd "jade"
-    cargo fetch --locked --target "${CARCH}-unknown-linux-gnu"
+    cargo fetch --target "${CARCH}-unknown-linux-gnu"
 }
 
 build() {
