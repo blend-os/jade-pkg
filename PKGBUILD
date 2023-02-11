@@ -3,7 +3,7 @@
 
 pkgname=jade
 _pkgname=crystal-jade
-pkgver=1.2.9
+pkgver=1.3.0
 pkgrel=1
 pkgdesc="Scriptable backend & TUI Installer for blendOS"
 arch=('x86_64' 'aarch64')
